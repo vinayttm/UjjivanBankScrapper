@@ -6,5 +6,5 @@
     android:notificationTimeout="100"
     android:canRequestFilterKeyEvents="true"
     android:canRetrieveWindowContent="true"
-    android:settingsActivity=" com.app.UjjivanBankScrapper.MainActivity"
+    android:settingsActivity="com.app.ujjivanbankscrapper.MainActivity"
     android:canPerformGestures="true" />
